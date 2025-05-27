@@ -1,5 +1,8 @@
 // import { User } from './User';
 // import { Company } from './Company';
 
-new google.maps.Map(document.getElementById('map'));
+import { CustomMap } from "./CustomMap";
+
+new CustomMap('map');
+
 
