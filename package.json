@@ -1,0 +1,23 @@
+{
+  "name": "features",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:build":"tsc -w",
+    "start:run": "nodemon build/index.js",
+    "start":"concurrently npm:start:*",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AAdeliya/features.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AAdeliya/features/issues"
+  },
+  "homepage": "https://github.com/AAdeliya/features#readme",
+  "description": ""
+}
