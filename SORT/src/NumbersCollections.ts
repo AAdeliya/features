@@ -1,5 +1,11 @@
 export class NumbersCollections {
-  constructor(public data: number[]) { }
+  constructor(public data: number[]) { 
+    super();
+  }
+
+  sort() {
+    
+  }
 
   get length(): number{
   return this.data.length;
