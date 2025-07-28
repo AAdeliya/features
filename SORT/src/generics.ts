@@ -74,4 +74,3 @@ function printHousesOrCars<T extends Printable>(arr: T[]): void {
 }
 
 printHousesOrCars<House>([new House(), new House]);
-printHousesOrCars<Car>([new Car(), new Car]);
