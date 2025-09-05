@@ -3,8 +3,8 @@ import { NumbersCollections } from "./NumbersCollections";
 import { CharactersCollections } from "./CharactersCollections";
 import { LinkedList } from "./LinkedList";
 
-// const numbersCollections = new NumbersCollections([10, 3, -5, 0]);
-// numbersCollections.sort();
+/const numbersCollections = new NumbersCollections([10, 3, -5, 0]);
+numbersCollections.sort();
 // console.log(numbersCollections.data);
 
 // const charactersCollections = new CharactersCollections('Xaayb');
