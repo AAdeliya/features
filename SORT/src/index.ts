@@ -8,7 +8,7 @@ numbersCollections.sort();
 console.log(numbersCollections.data);
 
 const charactersCollections = new CharactersCollections('Xaayb');
-// charactersCollections.sort();
+charactersCollections.sort();
 // console.log(charactersCollections);
 
 const linkedlist = new LinkedList();
