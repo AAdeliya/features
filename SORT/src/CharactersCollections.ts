@@ -25,4 +25,3 @@ export class CharactersCollections  extends Sorter {
     this.data = characters.join('');
   }
 }
-}
