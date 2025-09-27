@@ -19,3 +19,4 @@ linkedlist.add(4);
 
 linkedlist.sort();
 linkedlist.print();
+linkedlist.print();
