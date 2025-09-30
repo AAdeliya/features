@@ -3,7 +3,7 @@ import { NumbersCollections } from "./NumbersCollections";
 import { CharactersCollections } from "./CharactersCollections";
 import { LinkedList } from "./LinkedList";
 
-const numbersCollections = new NumbersCollections([10, 3, -5, 0]);
+const numbersCollections = new NumbersCollections([10, 3, -5, 0, 5]);
 numbersCollections.sort();
 console.log(numbersCollections.data);
 
