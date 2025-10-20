@@ -22,4 +22,3 @@ linkedlist.sort();
 linkedlist.print();
 linkedlist.print();
 linkedlist.print();
-linkedlist.print();
