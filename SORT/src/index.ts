@@ -18,4 +18,3 @@ linkedlist.add(-3);
 linkedlist.add(4);
 linkedlist.add(4);
 
-linkedlist.sort();
