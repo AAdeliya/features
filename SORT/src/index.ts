@@ -15,6 +15,5 @@ const linkedlist = new LinkedList();
 linkedlist.add(500);
 linkedlist.add(-10);
 linkedlist.add(-3);
-linkedlist.add(4);
-linkedlist.add(4);
+
 
